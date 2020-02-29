@@ -1,0 +1,17 @@
+.title-container {
+   transform: skew(-30deg, -3deg);
+   background: linear-gradient(to right, #4fd0f3 70%, #4169e1);
+   padding: 0 1rem;
+   margin: 1rem 0 2.5rem 0;
+   border: none;
+   box-shadow: none;
+   border-radius: 2px;
+   display: inline-block;
+}
+.title-text {
+   transform: skew(30deg, 1deg);
+   margin: 0;
+   padding: 0;
+   color: white;
+   text-shadow: 1px 1px 1px #666;
+}
