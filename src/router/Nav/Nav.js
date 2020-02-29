@@ -7,7 +7,7 @@ const Nav = () => (
    <>
       <Link to="/" className="nav-home-link">
          <img src={logo} className="Nav-logo" alt="logo" />
-         <p className="App-link">SVR from ZEIT</p>
+         <p className="App-link">React Playground</p>
       </Link>
       <nav>
          <ul>
